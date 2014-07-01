@@ -1,5 +1,4 @@
-# Dagbox #
-
+# Dagbok #
 Den här uppgiften går ut på att skriva ett program som kan lista, skriva ut, och skapa dagboksinlägg
 
 ## Bedömningsmatris ##
